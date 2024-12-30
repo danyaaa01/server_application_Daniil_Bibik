@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.prokhor.lab_5.Lab5ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 76.12 s -- in ru.prokhor.lab_5.Lab5ApplicationTests
